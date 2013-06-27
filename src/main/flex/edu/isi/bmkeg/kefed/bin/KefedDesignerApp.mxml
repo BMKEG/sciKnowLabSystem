@@ -3,6 +3,7 @@
 			   xmlns:base="edu.isi.bmkeg.kefed.designer.*"
 			   xmlns:view="edu.isi.bmkeg.kefed.designer.view.*"
 			   xmlns:kefedDiagram="edu.isi.bmkeg.kefed.diagram.*"
+			   xmlns:tw="edu.isi.bmkeg.tabbedWindows.*"
 			   xmlns:s="library://ns.adobe.com/flex/spark" 
 			   xmlns:mx="library://ns.adobe.com/flex/mx" 
 			   minWidth="955" 

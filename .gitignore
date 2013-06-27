@@ -1,2 +1,4 @@
 target/*
+bin-debug/*
 .DS_Store
+.actionScriptProperties

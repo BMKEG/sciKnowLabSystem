@@ -13,11 +13,13 @@
       <libraryPathEntry kind="1" linkType="1" path="libs"/>
       <libraryPathEntry kind="3" linkType="1" path="/kefedClientComponents/target/kefedClientComponents.swc" useDefaultLinkType="false"/>
       <libraryPathEntry kind="3" linkType="1" path="/vpdmfFlex/bin/vpdmfFlex.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="/digital-library-client-components/bin/digital-library-client-components.swc" useDefaultLinkType="false"/>
     </libraryPath>
     <sourceAttachmentPath/>
   </compiler>
   <applications>
     <application path="edu/isi/bmkeg/ooevv/bin/OoevvShellApp.mxml"/>
+    <application path="edu/isi/bmkeg/digitalLibrary/bin/DigitalLibraryApp.mxml"/>
     <application path="edu/isi/bmkeg/kefed/bin/KefedDiagramApp.mxml"/>
     <application path="edu/isi/bmkeg/kefed/bin/KefedDesignerApp.mxml"/>
     <application path="edu/isi/bmkeg/cosi/bin/QuestionTreeApp.mxml"/>

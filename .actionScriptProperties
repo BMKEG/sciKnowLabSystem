@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<actionScriptProperties analytics="false" mainApplicationPath="edu/isi/bmkeg/kefed/bin/KefedDesignerApp2.mxml" projectUUID="34f12d9c-27e4-4d5d-9fc3-bbe22a8d49f3" version="10">
-  <compiler additionalCompilerArguments="-locale en_US" autoRSLOrdering="true" copyDependentFiles="true" fteInMXComponents="false" generateAccessible="true" htmlExpressInstall="true" htmlGenerate="true" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" removeUnusedRSL="true" rootURL="http://localhost:8080/kefedServer/clientApp" sourceFolderPath="src/main/flex" strict="true" targetPlayerVersion="0.0.0" useApolloConfig="false" useDebugRSLSwfs="true" verifyDigests="true" warn="true">
-    <compilerSourcePath>
-      <compilerSourcePathEntry kind="1" linkType="1" path="src/test/flex"/>
-    </compilerSourcePath>
+<actionScriptProperties analytics="false" mainApplicationPath="edu/isi/bmkeg/kefed/bin/sciKnowLabSystem.mxml" projectUUID="b1072f3f-fcf1-433b-849b-6bc54417d751" version="10">
+  <compiler additionalCompilerArguments="-locale en_US" autoRSLOrdering="true" copyDependentFiles="true" fteInMXComponents="false" generateAccessible="true" htmlExpressInstall="true" htmlGenerate="true" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" removeUnusedRSL="true" rootURL="http://localhost:8180/sciKnowLab/clientApp" sourceFolderPath="src/main/flex" strict="true" targetPlayerVersion="0.0.0" useApolloConfig="false" useDebugRSLSwfs="true" verifyDigests="true" warn="true">
+    <compilerSourcePath/>
     <libraryPath defaultLinkType="0">
       <libraryPathEntry kind="4" path="">
         <excludedEntries>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/flex.swc" useDefaultLinkType="false"/>
           <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/core.swc" useDefaultLinkType="false"/>
         </excludedEntries>
       </libraryPathEntry>
       <libraryPathEntry kind="1" linkType="1" path="libs"/>
-      <libraryPathEntry kind="3" linkType="1" path="/kefedClientComponents/target/kefedClientComponents.swc" useDefaultLinkType="false"/>
-      <libraryPathEntry kind="3" linkType="1" path="/vpdmfFlex/bin/vpdmfFlex.swc" useDefaultLinkType="false"/>
-      <libraryPathEntry kind="3" linkType="1" path="/digital-library-client-components/bin/digital-library-client-components.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="/kefedClientComponents/bin/kefedClientComponents.swc" useDefaultLinkType="false"/>
     </libraryPath>
     <sourceAttachmentPath/>
   </compiler>
   <applications>
-    <application path="edu/isi/bmkeg/kefed/bin/KefedDesignerApp2.mxml"/>
-    <application path="edu/isi/bmkeg/ooevv/bin/OoevvShellApp.mxml"/>
-    <application path="edu/isi/bmkeg/digitalLibrary/bin/DigitalLibraryApp.mxml"/>
-    <application path="edu/isi/bmkeg/kefed/bin/KefedDiagramApp.mxml"/>
-    <application path="edu/isi/bmkeg/cosi/bin/QuestionTreeApp.mxml"/>
+    <application path="edu/isi/bmkeg/kefed/bin/sciKnowLabSystem.mxml"/>
   </applications>
   <modules/>
   <buildCSSFiles/>

@@ -3,3 +3,6 @@ bin-debug/*
 .DS_Store
 .actionScriptProperties
 .history
+.settings
+.project
+.classpath
